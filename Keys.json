@@ -1,5 +1,14 @@
 [
-  "VPX_KEY=?gW?wT95eb=ZdMHV8.six706g@k.f!AfV2kMc>f9T9L3v_bHE.Di72eZm6#e35Qj.hEhhk3Tf!n8wj]d0Ppu_LR!}J1o]=KzZwwcV",
-  "VPX_KEY=?5Y#q)du%>7C3]j,R.Q}q!W66ubKGBY=0jez@>GQdZ,0}f1Y*mo33P)Jfww9}^P3_b))fbPTxQ4n4af]7MmGGA*%Yn8KK:o)*AJNs",
-  "VPX_KEY=?py9X9,rnpdYvyxN)cZ!A2!D*~}W*U.n]3@CKXo:t!EY+~.Koo1-)u1x?VmKN}CNb^6A4vr-qJckpQ0N:n)*}anxcZqt0XufEc9xo"
+  {
+    "VPX_KEY": "aB!2#dE$4%FgH&*JkL9",
+    "ExpiryDate": "2025-12-31"
+  },
+  {
+    "VPX_KEY": "XyZ@9876!QwErTyUiOp",
+    "ExpiryDate": "2025-06-01"
+  },
+  {
+    "VPX_KEY": "12345-abcde-67890-fghij",
+    "ExpiryDate": "2026-01-15"
+  }
 ]
